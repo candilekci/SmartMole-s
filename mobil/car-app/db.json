@@ -1,0 +1,116 @@
+{
+  "carList": [
+    
+    {
+      "id": 5,
+      "name": "Skoda",
+      "product": [
+        {
+          "colorId": 1,
+          "color": "Red",
+          "count": 88
+        },
+        {
+          "colorId": 2,
+          "color": "Black",
+          "count": 56
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Seat",
+      "product": [
+        {
+          "colorId": 1,
+          "color": "Red",
+          "count": 95
+        },
+        {
+          "colorId": 2,
+          "color": "Black",
+          "count": 45
+        },
+        {
+          "colorId": 3,
+          "color": "Gray",
+          "count": 62
+        },
+        {
+          "colorId": 4,
+          "color": "White",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Honda",
+      "product": [
+        {
+          "colorId": 1,
+          "color": "Red",
+          "count": 95
+        },
+        {
+          "colorId": 2,
+          "color": "Black",
+          "count": 31
+        },
+        {
+          "colorId": 3,
+          "color": "Gray",
+          "count": 72
+        },
+        {
+          "colorId": 4,
+          "color": "White",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "BMW",
+      "product": [
+        {
+          "color": "Gray",
+          "count": 32,
+          "colorId": 1
+        },
+        {
+          "color": "White",
+          "count": 65,
+          "colorId": 2
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Toyota",
+      "product": [
+        {
+          "color": "Black",
+          "count": 54,
+          "colorId": 1
+        },
+        {
+          "color": "White",
+          "count": 48,
+          "colorId": 2
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "Ferrari",
+      "product": [
+        {
+          "color": "Black",
+          "count": 150,
+          "colorId": 1
+        }
+      ],
+      "id": 10
+    }
+  ]
+}
