@@ -1,0 +1,47 @@
+.edit-header{
+    background-color: #fff4f4;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: gray;
+}
+
+.add-new-car{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 25px auto ;
+    height: 160px;
+    width: 35%;
+    border: 1px solid #e4d7d7;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.add-car-tittle{
+    font-size: 20px;
+    font-weight: 600;
+    color: #911367;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.add-car-input{
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #e4d7d7;
+    padding-left: 5px;
+    font-size: 16px;
+}
+
+.add-new-car-button{
+    width: 35%;
+    height: 30px;
+    background-color: rgb(18, 90, 0);
+    border-radius: 5px;
+    border : 1px solid rgb(216, 183, 183);
+    cursor: pointer;
+    font-size: large;
+    color: #fff4f4;
+}

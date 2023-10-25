@@ -1,0 +1,20 @@
+.carShow-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 98%;
+  height: 55px;
+    margin: 0 auto;
+  margin-top: 20px;
+  background-color: aliceblue;
+    border-radius: 5px;
+    padding: 0  40px ;
+    border : 1px solid rgb(216, 183, 183);
+    cursor: pointer;
+}
+.carShow-name{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(41, 6, 6);
+}

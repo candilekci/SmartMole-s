@@ -1,0 +1,117 @@
+
+.car-card{
+    height: 50px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #9c9595;
+}
+.car-color{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 200px;
+}
+.action-cont{
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.action-button{
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-size: large;
+}
+
+.count-input{
+        width: 50px;
+        height: 20px;
+        margin: 0 10px;
+        border-radius: 3px;
+        margin-bottom: 3px;
+        padding-left: 5px;
+        font-size: large;
+}
+
+.delete-button{
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-size:larger;
+    margin-left: 55px;
+}
+
+.delete-button:hover{
+    color: red;
+}
+button:active{
+    background-color: #e4d7d7;
+    border-radius: 10px;
+}
+.button-container {
+    width: 90%;
+    margin:  0 auto;
+    display: flex;
+    justify-content:flex-end;
+
+  }
+.deleteCar{
+    width: 130px;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    border : 1px solid rgb(216, 183, 183);
+    cursor: pointer;
+    font-size: large;
+}
+
+
+.car-add-color-container{
+    width: 40%;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #9c9595;
+
+}
+.car-add-color-title{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.car-add-color{
+    width: 150px;
+    height: 20px;
+    margin: 0 10px;
+    border-radius: 3px;
+    margin-bottom: 3px;
+    padding-left: 5px;
+    font-size: medium;
+    border-color: #e6e1e1;
+}
+
+.car-add-color-count{
+    width: 80px;
+    height: 20px;
+    margin: 0 10px;
+    border-radius: 3px;
+    margin-bottom: 3px;
+    padding-left: 5px;
+    font-size: medium;
+    border-color: #e6e1e1;
+}
+
+.car-add-color-button{
+    width: 80px;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    border : 1px solid rgb(216, 183, 183);
+    cursor: pointer;
+    font-size: large;
+}
